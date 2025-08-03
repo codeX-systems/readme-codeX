@@ -1,9 +1,9 @@
 # readme-codeX
 Main README
 
-# 🤖 WebML Coders
+# 🤖 codeX Systems
 
-Welcome to **WebML Coders** — a collaborative team dedicated to building powerful and practical projects by merging **Machine Learning** with **Web Development**.  
+Welcome to **codeX** — a collaborative team dedicated to building powerful and practical projects by merging **Machine Learning** with **Web Development**.  
 This organization is a hub for experimentation, innovation, and growth in the ML + Web space.
 
 ---
@@ -55,33 +55,6 @@ We're open to **students, developers, and ML enthusiasts** who are:
 - Curious and self-driven
 - Interested in collaborating on real projects
 - Eager to learn from each other and improve together
-
----
-
-## 🤝 How to Contribute
-
-- Join our GitHub organization and check pinned issues
-- Pick a repo, read its `README.md`, and get started
-- Follow contribution guidelines in each project
-- Ask questions — collaboration over competition
-
----
-
-## 👨‍👩‍👧‍👦 Team Members
-
-Meet our core contributors:
-
-| Name | GitHub |
-|------|--------|
-| [You] | [@yourusername](https://github.com/yourusername) |
-| Add others here | ... |
-
----
-
-## 📫 Contact
-
-Have a question or want to collaborate?  
-Open an [issue](https://github.com/WebML-Coders) or contact us through the team email: **webmlcoders@xyz.com**
 
 ---
 
